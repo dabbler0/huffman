@@ -1,3 +1,9 @@
+# Copyright (c) 2016 Anthony Bau
+# MIT License
+
+# HUFFMAN TREE
+# ============
+
 helper = require './helper.coffee'
 
 # A Huffman tree. A Huffman tree knows its total count,

@@ -1,4 +1,8 @@
+# Copyright (c) 2016 Anthony Bau
+# MIT License.
+
 # HELPER FUNCTIONS
+# ================
 
 # Take two dictionaries and return the dictionary
 # that contains the union of their entries

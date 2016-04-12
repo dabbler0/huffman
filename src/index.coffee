@@ -1,5 +1,11 @@
 #!/usr/bin/env coffee
 
+# Copyright (c) 2016 Anthony Bau
+# MIT License.
+
+# EXECUTABLE
+# ==========
+
 helper = require './helper.coffee'
 huffman = require './huffman.coffee'
 minimist = require 'minimist'
